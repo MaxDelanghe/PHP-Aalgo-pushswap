@@ -1,8 +1,5 @@
 # Push_swap
-
-[Sujet push_swap] (https://github.com/thibaultauvray/push_swap/blob/master/subject-push_swap.pdf)
-
-Vous devez faire un programme qui prend en paramètre la pile a sous la forme d’une liste de nombres. Le premier paramètre est au sommet de la pile.
+Programme qui prend en paramètre la pile a sous la forme d’une liste de nombres. Le premier paramètre est au sommet de la pile.
 Le but est de trier la pile avec le moins d’opérations possibles, avec comme opération :
 
 * sa : swap a - intervertit les 2 premiers éléments au sommet de la pile a. (ne fait rien s’il n’y en a qu’un ou aucun).
